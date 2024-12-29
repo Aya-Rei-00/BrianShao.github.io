@@ -1,2 +1,2 @@
-# Aya-Rei-00.github.io
+# brianxuyangshao.github.io
 This repo is set to maintain personal blog.
